@@ -1,5 +1,6 @@
 # XL Release Microsoft Teams Plugin
 
+![logo](images/logo.png)
 
 ## Preface
 This document describes the functionality provided by the 'xlr-msteams-plugin'
@@ -21,6 +22,8 @@ Before setting up a notification task it is **required** to setup an MSTeams ser
 - **User name:** OPTIONAL Name to use in notifications.
 - **User icon:** OPTIONAL Icon to use in notifcations, should be an emoji, e.g ':100:'
 
+![configsettings](images/configsettings.png)
+
 ## Available Tasks
 The available tasks for interfacing with Teams. These utilize the [Microsoft Teams API](https://docs.microsoft.com/en-us/graph/teams-concept-overview) and the provided Teams Connector Authentication Configuration.
 
@@ -30,6 +33,8 @@ The MSTeams notification task needs the next information:
 - **Server:** The Teams server definition to use. (the shared configuration)
 - **Channel:** The target for the notification, use `#` to refer to a channel or direct message.
 - **Message:** The notification message text, it could be [markdown](https://docs.microsoft.com/en-us/outlook/actionable-messages/message-card-reference)
+
+![notification](images/notification.png)
 
 ## Refrences:
 * [Microsoft Graph Rest API](https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0)
