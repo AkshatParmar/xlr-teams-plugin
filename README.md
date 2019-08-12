@@ -36,5 +36,9 @@ The MSTeams notification task needs the next information:
 
 ![notification](images/notification.png)
 
+## Example
+
+![result](images/result.png)
+
 ## Refrences:
 * [Microsoft Graph Rest API](https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0)
