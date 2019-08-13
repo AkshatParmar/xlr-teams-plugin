@@ -2,6 +2,7 @@
 
 ![logo](images/logo.png)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/376a0daeb29a43adb95bd979f5c420b6)](https://www.codacy.com/app/AkshatParmar/xlr-teams-plugin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshatParmar/xlr-teams-plugin&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b912c3b41cef193e4ae0/maintainability)](https://codeclimate.com/github/AkshatParmar/xlr-teams-plugin/maintainability)
 
 ## Preface
 This document describes the functionality provided by the 'xlr-msteams-plugin'
