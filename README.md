@@ -1,7 +1,5 @@
 # XL Release Microsoft Teams Plugin
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a4a793bbfe934911b83c976182875bbc)](https://app.codacy.com/app/AkshatParmar/xlr-teams-plugin?utm_source=github.com&utm_medium=referral&utm_content=AkshatParmar/xlr-teams-plugin&utm_campaign=Badge_Grade_Dashboard)
-
 ![logo](images/logo.png)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/376a0daeb29a43adb95bd979f5c420b6)](https://www.codacy.com/app/AkshatParmar/xlr-teams-plugin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkshatParmar/xlr-teams-plugin&amp;utm_campaign=Badge_Grade)
 
