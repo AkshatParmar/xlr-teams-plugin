@@ -1,5 +1,8 @@
 language: java
-version: "8.0.11"
+jdk:
+  - oraclejdk8
+  - oraclejdk9
+  - openjdk8
 before_install:
 - chmod +x gradlew
 - gem install rake
