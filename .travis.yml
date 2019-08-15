@@ -1,6 +1,7 @@
 language: java
 before_install:
 - chmod +x gradlew
+- gem install rake
 deploy:
   provider: releases
   api_key:
