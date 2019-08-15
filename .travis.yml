@@ -1,4 +1,5 @@
 language: java
+version: "8.0.11"
 before_install:
 - chmod +x gradlew
 - gem install rake
